@@ -22,6 +22,10 @@ body {
   fill: orange;
 }
 
+.point {
+  fill: blue;
+}
+
 /* Tooltip class styling goes here */
 .tooltip {
   position: absolute;
